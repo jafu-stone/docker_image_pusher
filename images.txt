@@ -1,1 +1,2 @@
 vaultwarden/server:testing-alpine
+vaultwarden/server:latest
