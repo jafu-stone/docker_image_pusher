@@ -1,3 +1,3 @@
 vaultwarden/server:testing-alpine
 vaultwarden/server:latest
-sun-panel:master
+sun-panel
